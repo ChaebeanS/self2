@@ -72,7 +72,8 @@ article {
 .con1 div {width: 75%; margin-top: 70px;}
 
 .con2 {display: flex; justify-content: space-between;}
-.con2 div {width: 40%; }
+.con2 div {width: 40%;}
+.con2 img {width: 55%;}
 
 
 /* ------------------- sign ------------------- */
