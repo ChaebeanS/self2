@@ -34,7 +34,7 @@ li {list-style: none;}
   margin: 40px auto;
 }
 .header div { 
-  width: 90%; 
+  margin: 0 2%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -55,7 +55,7 @@ a {
 /* =================== sub =================== */
 
 article {
-  width: 60vw;
+  width: 58vw;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
